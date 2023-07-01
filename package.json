@@ -1,0 +1,20 @@
+{
+  "name": "myfirstproject",
+  "version": "1.0.0",
+  "description": "my first project.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "testing",
+    "node",
+    "check"
+  ],
+  "author": "NI",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
